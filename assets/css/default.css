@@ -79,7 +79,7 @@ header { background-color: #fff; border-bottom: solid 2px #eee; }
 .card .language { font-weight: 700; float: right; }
 .card .link { color: #50c4eb; font-weight: 700; }
 
-#lang-list li:nth-child(3), .Groovy { display: none !important; }
+#lang-list li:nth-child(2) { display: none !important; }
 
 /*------------------------------------------------*/
 /* FORMS
